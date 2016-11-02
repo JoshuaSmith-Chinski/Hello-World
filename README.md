@@ -1,2 +1,4 @@
 # hello-world
-Just trying to do this the right way.
+
+This is my second attempt at this repository.
+I hope it works.
